@@ -1,1 +1,1 @@
-## This is a M-A-R-K-D-O-W-N file
+## This is a MARK-DOWN file
